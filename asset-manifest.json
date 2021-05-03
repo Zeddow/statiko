@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/statiko.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/statiko.github.io/static/js/main.2f125a43.chunk.js",
-    "main.js.map": "/statiko.github.io/static/js/main.2f125a43.chunk.js.map",
-    "runtime-main.js": "/statiko.github.io/static/js/runtime-main.c05b10d6.js",
-    "runtime-main.js.map": "/statiko.github.io/static/js/runtime-main.c05b10d6.js.map",
-    "static/js/2.2489858e.chunk.js": "/statiko.github.io/static/js/2.2489858e.chunk.js",
-    "static/js/2.2489858e.chunk.js.map": "/statiko.github.io/static/js/2.2489858e.chunk.js.map",
-    "static/js/3.6a04464c.chunk.js": "/statiko.github.io/static/js/3.6a04464c.chunk.js",
-    "static/js/3.6a04464c.chunk.js.map": "/statiko.github.io/static/js/3.6a04464c.chunk.js.map",
-    "index.html": "/statiko.github.io/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/statiko.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2489858e.chunk.js.LICENSE.txt": "/statiko.github.io/static/js/2.2489858e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/statiko.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/statiko/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/statiko/static/js/main.2f125a43.chunk.js",
+    "main.js.map": "/statiko/static/js/main.2f125a43.chunk.js.map",
+    "runtime-main.js": "/statiko/static/js/runtime-main.7aa316f0.js",
+    "runtime-main.js.map": "/statiko/static/js/runtime-main.7aa316f0.js.map",
+    "static/js/2.2489858e.chunk.js": "/statiko/static/js/2.2489858e.chunk.js",
+    "static/js/2.2489858e.chunk.js.map": "/statiko/static/js/2.2489858e.chunk.js.map",
+    "static/js/3.6a04464c.chunk.js": "/statiko/static/js/3.6a04464c.chunk.js",
+    "static/js/3.6a04464c.chunk.js.map": "/statiko/static/js/3.6a04464c.chunk.js.map",
+    "index.html": "/statiko/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/statiko/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2489858e.chunk.js.LICENSE.txt": "/statiko/static/js/2.2489858e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/statiko/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c05b10d6.js",
+    "static/js/runtime-main.7aa316f0.js",
     "static/js/2.2489858e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.2f125a43.chunk.js"
